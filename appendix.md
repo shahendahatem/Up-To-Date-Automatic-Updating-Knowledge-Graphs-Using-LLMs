@@ -53,4 +53,3 @@ LIMIT 1000
 
 Adjust the `LIMIT` to manage the return size and the `OFFSET` in subsequent queries to get new batches of data.
 
-You can copy this Markdown content and include it in your appendix file before uploading it to GitHub.
