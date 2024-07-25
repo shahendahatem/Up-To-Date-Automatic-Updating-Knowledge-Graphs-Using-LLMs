@@ -7,3 +7,4 @@ a methodology utilizing Large Language Models (LLMs) to validate and update KG f
 LLM reasoning capabilities to determine potentially outdated facts. After that, we use RAG techniques to generate an accurate
 fix for the fact. Experimental results on several LLMs and real-world datasets demonstrate the ability of our approach to propose
 accurate fixes. In addition, our experiments highlight the efficacy of few-shot prompts over zero-shot prompts
+
