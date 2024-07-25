@@ -11,6 +11,6 @@ accurate fixes. In addition, our experiments highlight the efficacy of few-shot 
 
 ## Proposed System
 
-![Proposed System](figure.png)
+![Proposed System](PSysup3.svg)
 
 Fig. 1: Illustration of the proposed system for automatic updating of the knowledge graph based on Retrieval-Augmented Generation (RAG) with large language models (LLMs).
