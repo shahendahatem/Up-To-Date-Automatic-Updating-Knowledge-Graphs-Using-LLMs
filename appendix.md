@@ -1,4 +1,4 @@
-## Appendix: SPARQL Query for Collecting Triples from Wikidata
+## SPARQL Query for Collecting Triples from Wikidata
 
 ```sparql
 SELECT ?player ?playerLabel ?birthDate ?birthPlaceLabel ?nationalityLabel ?memberOf2017Label ?memberOf2020Label ?memberOf2023Label ?memberOf2024Label ?spouseLabel ?homeLocationLabel ?genderLabel ?deathDate ?deathPlaceLabel ?childrenLabel WHERE {
